@@ -1,0 +1,4 @@
+struct example {
+    unsigned long index;
+    string message;
+};
